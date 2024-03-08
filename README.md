@@ -5,7 +5,7 @@
   pero tambien me gusta aprender a realizar diseños y animaciones en una web.
 </p>
 <p>Ademas, me encanta compartir conocimientos y aprender cosas nuevas</p>
-<p>Puedes contactarme en: <a href="rdiocar@g.educaand.es">rdiocar@g.educaand.es</a></p>
+<p>Puedes contactarme en: <a href="mailto:rdiocar@g.educaand.es">rdiocar@g.educaand.es</a></p>
   
 <!--
 **RicDioCar88/RicDioCAr88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
